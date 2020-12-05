@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "396828974069",
+    "project_id": "music-on-ec89a",
+    "storage_bucket": "music-on-ec89a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396828974069:android:7bf7c7823a5bcb8cdf9ebc",
+        "android_client_info": {
+          "package_name": "com.tarunguptaraja.musicon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "396828974069-vf8fighaidbd8uhkcee23efhpsk53cpj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-7Bb9s7QIIoLGyeeJnkqCo8zEyhsfgTw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "396828974069-vf8fighaidbd8uhkcee23efhpsk53cpj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
